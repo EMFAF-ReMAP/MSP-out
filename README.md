@@ -77,3 +77,10 @@ MSP-out provides several types of analyses, including:
   🔗 [https://github.com/EMFAF-ReMAP/MSP-out](https://github.com/EMFAF-ReMAP/MSP-out)
 
 
+## 👥 Contributors
+- Stefano Menegon
+- Sara Sottoriva
+- Alessandro Sarretta
+- Luca Fucci
+- Alessandro Mulazzani
+
