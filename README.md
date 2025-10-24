@@ -34,7 +34,9 @@ MSP-out is implemented as an **interactive web application** using **[Streamlit]
 - Spatial and statistical analysis  
 - Interactive visualization  
 
-The tool is **containerized** for reproducibility and easy deployment (Docker-ready).
+The tool is released as part of the **Tools4MSP GeoApps** suite and **containerized** (Docker-ready) for reproducible deployment:
+https://geoapps.tools4msp.eu/
+
 
 ---
 
